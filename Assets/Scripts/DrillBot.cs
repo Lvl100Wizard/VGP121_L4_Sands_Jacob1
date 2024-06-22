@@ -26,14 +26,15 @@ public class DrillBot : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         // Destroy the drill bot if it hits any obstacle
-        if (collision.gameObject.CompareTag("Obstacle") || collision.gameObject.CompareTag("Player"))
-        {
+        
+
             if (collision.gameObject.CompareTag("Player"))
             {
+            Debug.Log("Collision with player");
                 // Damage the player
                 collision.gameObject.GetComponent<PlayerController>().TakeDamage(1);
-            }
-            Destroy(gameObject);
+            
+                Destroy(gameObject);
         }
     }
 
