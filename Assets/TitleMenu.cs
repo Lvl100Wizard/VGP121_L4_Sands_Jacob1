@@ -5,9 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class TitleMenu : MonoBehaviour
 {
+    private void Start()
+    {
+        AudioManager.instance.Play("TitleMusic");
+
+    }
     public void StartGame()
     {
         SceneManager.LoadScene("LevelScene");
+        AudioManager.instance.Stop("TitleMusic");
+        AudioManager.instance.Play("GameMusic");
+
     }
 
     public void QuitGame()

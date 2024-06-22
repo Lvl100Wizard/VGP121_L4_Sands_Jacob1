@@ -3941,8 +3941,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 4714339140158220381, guid: b21fc1965337ac448b3837890fab68bf, type: 3}
-  shootPointLeft: {fileID: 1140406499}
-  shootPointRight: {fileID: 285966313}
+  leftShootPoint: {fileID: 1140406499}
+  rightShootPoint: {fileID: 285966313}
   shootCooldown: 0.5
   maxShots: 3
 --- !u!58 &797259861
