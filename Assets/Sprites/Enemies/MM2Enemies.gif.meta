@@ -1,0 +1,3964 @@
+fileFormatVersion: 2
+guid: aec74743e2099034bb70e94590a6c2cb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MM2Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 571
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d34ca2b27d22f64bb1155d1615731c4
+      internalID: -1300909468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 571
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b468601a1143a34d847140e1cf1acf3
+      internalID: -2076985729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc352f9daaf72f945848cf006b2ab3c5
+      internalID: -73058462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324115292605864b84475d7264ace9b
+      internalID: 1461965663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 581
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274485b92449e44688331f5653aefdf
+      internalID: 753816171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89710f595e7375a49966bc6051366413
+      internalID: 1807119413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ab3d8d09db0744b0c871feb4ef38a
+      internalID: -1398015127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f832d979fb5d354abe6747d453d5f42
+      internalID: 1657340829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e2ff621ed5a7b47ad924054ef712a6
+      internalID: 1496280790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 581
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab57306d43f314b8813019c5747ed8
+      internalID: -56469348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138eff437121b34da0ce60bb5d006f5
+      internalID: 1444710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4b5d1da0bf2843bc27128ac1e0929
+      internalID: -469637342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1d76d8368f8f4da78b11d387282f2
+      internalID: 2028210668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 571
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393ce70742177454c9a5814043f186d0
+      internalID: 1192290843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 581
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe45807f6cc284e9c89f1f58f6589f
+      internalID: -1202262379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba0a694d7dd78428e4d16fdc1620a3
+      internalID: -410973104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941188a3b21a464ba4fdab37015013c
+      internalID: 1041001063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 571
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224866e07fde5c946883c1e55c26ceb2
+      internalID: 487592038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 571
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2300e138af36f4aa1327c86c3656cd
+      internalID: -893341202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 571
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ddc98615d242a4d97e8d1277e01d41
+      internalID: -789968415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 571
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae58af1d77b04946a03d3fca70daf70
+      internalID: 1607558155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 571
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2980896426ba094682a9ff9eebed165
+      internalID: 1179699117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 571
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36036ff5eb2da4ab8790c55c92a1bb
+      internalID: 955988731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 571
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db7f5f5f379e304881e999aeb1a6052
+      internalID: 935796341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 571
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c16ccd118f3c4eb21d27f78823c5e
+      internalID: 1229891647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 571
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a76b4ce3dc1e41ad6aa1dd45164fc
+      internalID: -1815158107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 571
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973580101b4ce1947ad482670ece5f34
+      internalID: 28778535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bdf6129d3d6884ca5cfc1aa3eafcf0
+      internalID: -1156603331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 572
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c06b6369a48c4196f966a592a2bb9
+      internalID: 1047429968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 572
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acdaeaccb309d4f968e88f7658d4b9
+      internalID: -1920701466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 572
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703df6f5a23553a4ea034f72c6ea554f
+      internalID: 1664478747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 572
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6254b7a9b1dc764e9a97736c10deaa8
+      internalID: 1715010752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 573
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9434ae08bb64b47a5cebe0b7630073
+      internalID: 1496369159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 573
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47e8a8c4dc42f409fd1ad570ba7a4a
+      internalID: 198083511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 539
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eecc1f6e44cb74aa0ac8c35229fb81
+      internalID: 2051335214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 539
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7549d3f67f1aa440978fecdaa0b27a1
+      internalID: -2061207093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 539
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15950f92d12180b478e5da0f414439fb
+      internalID: -887490865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 539
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeaae4db7571be459377e9ac30c3c9b
+      internalID: -1844938387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 539
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f884a8434e31746bfaedd4a123cbe2
+      internalID: 1352811558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 539
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a86500d65106448a005db65b7c448
+      internalID: 1786087115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 548
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f6354b1218f04eabc56ee5fcdf478
+      internalID: 1273461723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 539
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb3aa209c4b2b4ab73728362c0c69a
+      internalID: -832077355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 539
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae300ef042c8ab4a91104e8d1f4e07c
+      internalID: -102669187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 539
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36099938f9cb15e4088571c706a79493
+      internalID: -799241928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 539
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c678f8f875624746a6cc5963b191315
+      internalID: -2046807266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 539
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904ea7d750004f44ae2267c0f072db2
+      internalID: -1835954705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 538
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55baa208885a1f40b3410c0ea9f643f
+      internalID: 215881760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ccd49ca10e15408ebcdb792c29b68
+      internalID: 177847723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 538
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a478c15d512a49a926dc968c9e4bf
+      internalID: -1813766945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03af4fc75b5151d40a687d453524ab2e
+      internalID: 222130558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b63fc90bc52f449a8014a64d9864e7
+      internalID: -1745295509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 538
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b86395a3deb2142a9b970137d32123
+      internalID: -951809170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 538
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c5966edd33354ea06f40c903b73f7
+      internalID: -1436702456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 538
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa66b5f6f12989640a61f2f3196629a3
+      internalID: 685963373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57288d8b668373f478cf8818ae132b6c
+      internalID: 1914593238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 538
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f60148076c5344aa65a04b9b6d5da
+      internalID: 1760087564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 538
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd0757c7eed914daf78aa7e5df2771
+      internalID: -2112070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 538
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f85013dfc9734aaf27899e64797ef
+      internalID: 2012716787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 538
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff1098fbb9d1c4982442e0c6b37cc0
+      internalID: -764080332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 538
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a78eb3c7c304478196eb6f12c9f7c
+      internalID: 112922307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headguy1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 467
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930698f29fd21047b4c7ce2b82dc237
+      internalID: 1688198561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headguy2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 467
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd3b0323b7dfc40b8658c333ed91d7
+      internalID: -817253607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Headguy3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 467
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b6520f848adb4e903ade3d30a3931
+      internalID: 2032852567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 467
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e0fc33ec08d24aa432d96d2dbab7f
+      internalID: 834888472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 515
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f46fa1f8d929e4daba7c216f33e4cf
+      internalID: 633039973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 467
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183614d4030c9747902c219e22f8334
+      internalID: 1547208049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 467
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5a10447168b64f8761b617929b8b0
+      internalID: 1165785833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 467
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf088f55c75ed24fa38fd7fc44fea5d
+      internalID: -442227709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 508
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5972e247570640a170259e51f855a
+      internalID: -1871132208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 492
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98809c936800f04298b0620536f151c
+      internalID: 1243665954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 466
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a670683a8706b334b99213670cb6b593
+      internalID: 1277643381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springy3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 466
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdd8d70d1b30d4baf6a65843fdf75e
+      internalID: 1926474725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b7581c1ea8ab744876f4c3fbdd14b2
+      internalID: -250914454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec54c7afde3e24c86397214bdf9e31
+      internalID: 1292429203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a34b6b418fccb4997018f6e6f8dc02
+      internalID: 825587442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491ba64ea5650548879aeba4fa01b9c
+      internalID: 125390737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756a62bb1c71e846a2d047b8d0c9d4a
+      internalID: -881933096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8397c3d72d8512408e05750ec19d0cc
+      internalID: -1823148342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 467
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdc8db4aa200104ca0a4120d4cc5f4a
+      internalID: -1869715241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 467
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c22d4c98e53cb1418d5a56bde848fa5
+      internalID: 1304029877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 467
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1ef6e6378f2341a9a7ad796bf736f
+      internalID: 330737976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 473
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88072c9b9fc59294b91bdd6168f60ddd
+      internalID: 837631880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 466
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2914d027c92e9284e9b21732de64af20
+      internalID: -1667038579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 466
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b19c86b9a0e1c44b4cb12f49f064ea
+      internalID: 430854649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springy1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 466
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e20812622830d45b4ef83eb4d31d4f
+      internalID: 986468012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Springy2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 466
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b6f1859d42674d989c0ca4013c70d
+      internalID: 996071511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crusher
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 345
+        width: 32
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339fa025978f114e837973f9b5f9774
+      internalID: -1634270584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 401
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9841929b5eaf478c856603ae85811
+      internalID: 854434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 401
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88692a7051478be4c9fb63d7e0efeb81
+      internalID: 1017849487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 401
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127d3ef9929df69479f7bfcaeed27cc4
+      internalID: 1450700585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 401
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9ff1b6273f284e811e1157a5deb13
+      internalID: 523083862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coggy1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 430
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe3fc0370749147b8f5c6452cf29df
+      internalID: -1384878432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coggy2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 430
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fca67af4aa8624a9494f7e65e6e1d2
+      internalID: -1838584517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cogride1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 397
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f63dcde234fa459754d8733acdfe4
+      internalID: 218858665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cogride2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 397
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba27e59c14a8e498c1e6e88f270ef7
+      internalID: -913145752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 401
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcaf4cb7fb3f6f4abca5217774ef91a
+      internalID: -2039150133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 401
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d84014937dec2a44a035dbb4dafe44e
+      internalID: 1845396166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 401
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43190a641a16d5b4ab6dcf72d642066c
+      internalID: 1969998802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 401
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b521930dc7b3554eb3cb01237cc7159
+      internalID: 1145368082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 401
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f74c1c9eaab644ae21b23c55f2365
+      internalID: -1969304377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e355648309e71344798e75ca0b014f76
+      internalID: 1832085413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 401
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486472cc236a1db4c88f6cb8a52caf3e
+      internalID: -1019138304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drillup1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 401
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a550136f4fb74ebde0959aa6f7cfb
+      internalID: -1997291506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drillup2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 401
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14026a65c344564487dd0953a8b3694
+      internalID: -457541250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilldown1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 401
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c4d994afc3f5546bde7095d7db98d6
+      internalID: -64839420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilldown2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 401
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18635880d29a43b41bce6790d22992ce
+      internalID: -1960238992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cog1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37529b8f90d70354faef91a1225cdab7
+      internalID: 466739959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cog2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 389
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069074b4bb3776d45b3487e937944882
+      internalID: -1889592623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 401
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee284db676f254e91352dafa0edf33
+      internalID: -1604379446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 402
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9184d4b18f154690993c9582d0c54
+      internalID: 1572712731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 345
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59fc71b1fc4c543a5f8dc1128def77
+      internalID: 1565548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 345
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4216e692b5b746bb70a9fb7f2ff6e
+      internalID: -395538817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 345
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cf48172d1c3442a6ceefb764e6782
+      internalID: -1713693549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 345
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b2f26d38948847abdf78c27adf1ba
+      internalID: 1734764223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 345
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5b53b8e9a69d4d8524dd3bb3fd40d
+      internalID: 1653535383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 345
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d27c1a1095be429d1d6c765e71fe2
+      internalID: -985869582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 348
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d304897957ca4c9a601e0623b6963
+      internalID: 15922806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 345
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8835a695fe45e47b6ee19fa32eef86
+      internalID: 1428170146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 344
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2eddbdf2b6c704cb2e5b0c83e387ff
+      internalID: 128339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 258
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592186c7b3f8b294384f5a48f399c62b
+      internalID: -754628206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 258
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d0dfc831a80f47afa975a064fa072
+      internalID: 1573123039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 258
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5a8a3c1c373e409d9d5751ab22557
+      internalID: 1605725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 257
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef2582bae92dd45b435a3def9766da
+      internalID: 1305528676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 257
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013efdd8abfdcee4cbddb47da7ac231e
+      internalID: 191690556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 258
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a44a7f640c7af4785447f66d4b3bb2
+      internalID: -1266606407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 258
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220a0f4bf76718c48a5a615f7257dc56
+      internalID: -1394065230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 260
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111e7ff84bc2763439760092ba7c3154
+      internalID: -1120738907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 195
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c219cd0ca70c9459fc9999987d16cb
+      internalID: 536817264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38602b748213848ab05741ddc260df
+      internalID: -2089359949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f745f7aeccc442a6fc15e56a4c791
+      internalID: -1646821839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a4d075bb4319439b626c4504861cb
+      internalID: 94807556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da4c5ff4974e24d8d4fc53ae24fb49
+      internalID: 1806611723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a53f139455534a80887701ca74ccc
+      internalID: -1064484719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 194
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea86ed401fb33ba4f88a9726fd257bce
+      internalID: -635830597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdecfe99df18e4f81d8cdf3a7267b1
+      internalID: 822068830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 206
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed5ddf82258484d996c3a849007166
+      internalID: 148630786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 193
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d5d9c300509c441bfa480c07562ebb
+      internalID: -1001489728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 193
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bba4e225e9b064484d0cd8bf15dfb4
+      internalID: 1348646068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 194
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c29ae783674264bbe7e23734cfb692
+      internalID: 1094498124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 194
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fe691dc93962468467bd9f60cec9e
+      internalID: -18369103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 193
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2c5a7d4d12b6f4a956f3af7d35a0bb
+      internalID: 493902425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c327309f6ed58d4db04cd0ee52f085c
+      internalID: -1310407644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 211
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5960346fa5b747b8dcda3c2bc1368
+      internalID: 1476122803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 92
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2089c022f810439b3589516b0c533
+      internalID: 2118396147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 92
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3d351b739833b4fbffcd7be6660688
+      internalID: -2042826714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2795bd4aee4fee46af1f3fc91e0bf26
+      internalID: 1927314177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd8d206f919e541a20d76bef14241d
+      internalID: 1968570066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 92
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30506f763bacf8a4382a2e29bc78d258
+      internalID: -1950083440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 92
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba300e121c1d0949945ab3653bcc711
+      internalID: -1260409249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ad01a8c8afb7c4cab41561917982dd
+      internalID: -2111746487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 93
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea00e5ddf42004996f19ff782acc4f
+      internalID: -132405391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 93
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a268c1bb029541a0310fbd07b6a14
+      internalID: -638610729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 93
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90ce05b748cc94fa180ff1b004f5b7
+      internalID: -1439029388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 93
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933d7638f2bfea84d9b19c52a91ee645
+      internalID: -1590551095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14df561b0b2846944918354806ab243c
+      internalID: -1921592823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e97e1be539fc94fbafa69a5a286de4
+      internalID: 421499881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e833e2949551ab4a81c1f7cc4e79f4f
+      internalID: 1366622259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb6329a20ed0843982d4cc918ba5e8
+      internalID: 207407941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57880264c18fe0448948a41355a3f0f4
+      internalID: 910388360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71a9c5e6fd9544abc6876333a41b3f
+      internalID: -336061366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee9d962f56ac541ad268d87d7048b3
+      internalID: -361804834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129faa2e6cee5147acc25a4b1138e6c
+      internalID: -775710822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 15
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836667949f79aec4782bac8d68689ba8
+      internalID: 234535204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780b62ee4f9c3c84c81c1a62a98de374
+      internalID: 357394489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add41e9f9cc275c45b7df37a57f3b93a
+      internalID: 1498638679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 14
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dfd65568b7d704d93b6fdb8bc344df
+      internalID: 707764229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 6
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38791293783a58540bdfe326a94e52c6
+      internalID: -758880310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 9
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b801e74cc3b64a9449372ec56ecc15ab
+      internalID: 880333377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 7
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca8eea499f31b4d8469bfe98b431a9
+      internalID: 1634390061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 8
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2725328741d4014ea44d9c9c8d23707
+      internalID: 1140527678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 23
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5813eccdfa38842a1554e7f43570cf
+      internalID: -1417076997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ea75b023af12b46888738775d3109d
+      internalID: -1752532208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b172006f180349b7c11ce087f0cb3
+      internalID: 179851315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d609f5d677bc8f468a98f0e82bf5d84
+      internalID: 584012725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM2Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39f5faf1fb0e744b8f6ae71a798ed2
+      internalID: -1074390593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cog1: 466739959
+      Cog2: -1889592623
+      Coggy1: -1384878432
+      Coggy2: -1838584517
+      Cogride1: 218858665
+      Cogride2: -913145752
+      Crusher: -1634270584
+      Drilldown1: -64839420
+      Drilldown2: -1960238992
+      Drillup1: -1997291506
+      Drillup2: -457541250
+      Headguy1: 1688198561
+      Headguy2: -817253607
+      Headguy3: 2032852567
+      MM2Enemies_0: -1300909468
+      MM2Enemies_1: -2076985729
+      MM2Enemies_10: 1444710035
+      MM2Enemies_100: 1832085413
+      MM2Enemies_101: -1019138304
+      MM2Enemies_108: -1604379446
+      MM2Enemies_109: 1572712731
+      MM2Enemies_11: -469637342
+      MM2Enemies_110: 1565548436
+      MM2Enemies_111: -395538817
+      MM2Enemies_112: -1713693549
+      MM2Enemies_113: 1734764223
+      MM2Enemies_114: 1653535383
+      MM2Enemies_115: -985869582
+      MM2Enemies_116: 15922806
+      MM2Enemies_117: 1428170146
+      MM2Enemies_118: 128339
+      MM2Enemies_119: -754628206
+      MM2Enemies_12: 2028210668
+      MM2Enemies_120: 1573123039
+      MM2Enemies_121: 1605725280
+      MM2Enemies_122: 1305528676
+      MM2Enemies_123: 191690556
+      MM2Enemies_124: -1266606407
+      MM2Enemies_125: -1394065230
+      MM2Enemies_126: -1120738907
+      MM2Enemies_127: 536817264
+      MM2Enemies_128: -2089359949
+      MM2Enemies_129: -1646821839
+      MM2Enemies_13: 1192290843
+      MM2Enemies_130: 94807556
+      MM2Enemies_131: 1806611723
+      MM2Enemies_132: -1064484719
+      MM2Enemies_133: -635830597
+      MM2Enemies_134: 822068830
+      MM2Enemies_135: 148630786
+      MM2Enemies_136: -1001489728
+      MM2Enemies_137: 1348646068
+      MM2Enemies_138: 1094498124
+      MM2Enemies_139: -18369103
+      MM2Enemies_14: -1202262379
+      MM2Enemies_140: 493902425
+      MM2Enemies_141: -1310407644
+      MM2Enemies_142: 1476122803
+      MM2Enemies_143: 2118396147
+      MM2Enemies_144: -2042826714
+      MM2Enemies_145: 1927314177
+      MM2Enemies_146: 1968570066
+      MM2Enemies_147: -1950083440
+      MM2Enemies_148: -1260409249
+      MM2Enemies_149: -2111746487
+      MM2Enemies_15: -410973104
+      MM2Enemies_150: -132405391
+      MM2Enemies_151: -638610729
+      MM2Enemies_152: -1439029388
+      MM2Enemies_153: -1590551095
+      MM2Enemies_154: -1921592823
+      MM2Enemies_155: 421499881
+      MM2Enemies_156: 1366622259
+      MM2Enemies_157: 207407941
+      MM2Enemies_158: 910388360
+      MM2Enemies_159: -336061366
+      MM2Enemies_16: 1041001063
+      MM2Enemies_160: -361804834
+      MM2Enemies_161: -775710822
+      MM2Enemies_162: 234535204
+      MM2Enemies_163: 357394489
+      MM2Enemies_164: 1498638679
+      MM2Enemies_165: 707764229
+      MM2Enemies_166: -758880310
+      MM2Enemies_167: 880333377
+      MM2Enemies_168: 1634390061
+      MM2Enemies_169: 1140527678
+      MM2Enemies_17: 487592038
+      MM2Enemies_170: -1417076997
+      MM2Enemies_171: -1752532208
+      MM2Enemies_172: 179851315
+      MM2Enemies_173: 584012725
+      MM2Enemies_174: -1074390593
+      MM2Enemies_18: -893341202
+      MM2Enemies_19: -789968415
+      MM2Enemies_2: -73058462
+      MM2Enemies_20: 1607558155
+      MM2Enemies_21: 1179699117
+      MM2Enemies_22: 955988731
+      MM2Enemies_23: 935796341
+      MM2Enemies_24: 1229891647
+      MM2Enemies_25: -1815158107
+      MM2Enemies_26: 28778535
+      MM2Enemies_27: -1156603331
+      MM2Enemies_28: 1047429968
+      MM2Enemies_29: -1920701466
+      MM2Enemies_3: 1461965663
+      MM2Enemies_30: 1664478747
+      MM2Enemies_31: 1715010752
+      MM2Enemies_32: 1496369159
+      MM2Enemies_33: 198083511
+      MM2Enemies_34: 2051335214
+      MM2Enemies_35: -2061207093
+      MM2Enemies_36: -887490865
+      MM2Enemies_37: -1844938387
+      MM2Enemies_38: 1352811558
+      MM2Enemies_39: 1786087115
+      MM2Enemies_4: 753816171
+      MM2Enemies_40: 1273461723
+      MM2Enemies_41: -832077355
+      MM2Enemies_42: -102669187
+      MM2Enemies_43: -799241928
+      MM2Enemies_44: -2046807266
+      MM2Enemies_45: -1835954705
+      MM2Enemies_46: 215881760
+      MM2Enemies_47: 177847723
+      MM2Enemies_48: -1813766945
+      MM2Enemies_49: 222130558
+      MM2Enemies_5: 1807119413
+      MM2Enemies_50: -1745295509
+      MM2Enemies_51: -951809170
+      MM2Enemies_52: -1436702456
+      MM2Enemies_53: 685963373
+      MM2Enemies_54: 1914593238
+      MM2Enemies_55: 1760087564
+      MM2Enemies_56: -2112070878
+      MM2Enemies_57: 2012716787
+      MM2Enemies_58: -764080332
+      MM2Enemies_59: 112922307
+      MM2Enemies_6: -1398015127
+      MM2Enemies_63: 834888472
+      MM2Enemies_64: 633039973
+      MM2Enemies_65: 1547208049
+      MM2Enemies_66: 1165785833
+      MM2Enemies_67: -442227709
+      MM2Enemies_68: -1871132208
+      MM2Enemies_69: 1243665954
+      MM2Enemies_7: 1657340829
+      MM2Enemies_70: 1277643381
+      MM2Enemies_72: -250914454
+      MM2Enemies_73: 1292429203
+      MM2Enemies_74: 825587442
+      MM2Enemies_75: 125390737
+      MM2Enemies_76: -881933096
+      MM2Enemies_77: -1823148342
+      MM2Enemies_78: -1869715241
+      MM2Enemies_79: 1304029877
+      MM2Enemies_8: 1496280790
+      MM2Enemies_80: 330737976
+      MM2Enemies_81: 837631880
+      MM2Enemies_82: -1667038579
+      MM2Enemies_83: 430854649
+      MM2Enemies_87: 854434410
+      MM2Enemies_88: 1017849487
+      MM2Enemies_89: 1450700585
+      MM2Enemies_9: -56469348
+      MM2Enemies_90: 523083862
+      MM2Enemies_95: -2039150133
+      MM2Enemies_96: 1845396166
+      MM2Enemies_97: 1969998802
+      MM2Enemies_98: 1145368082
+      MM2Enemies_99: -1969304377
+      Springy1: 986468012
+      Springy2: 996071511
+      Springy3: 1926474725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

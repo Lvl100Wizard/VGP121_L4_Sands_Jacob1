@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 47d38e8eb98f5994caa04b31022429f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm2miscsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 257
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b569ebdda14564ab92353c926974f1
+      internalID: 1977004721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1407
+        width: 256
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b488697a5fc7d9847bce44b7c740b889
+      internalID: -651400707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1315
+        width: 15
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4764d855d21b146bcd60c7e40d4480
+      internalID: -331332434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1315
+        width: 9
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d8a75b0f069f488f2e0d9f110acca
+      internalID: -1287674324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1315
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16874d75ef976254e8850e0db75ce2e5
+      internalID: 121511134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1315
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07c15d480922a4a9d10fa0121683bf
+      internalID: 1232006738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1315
+        width: 16
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1d175a39daaa4897c03929520af51
+      internalID: -1539076609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1170
+        width: 256
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7566eec38bd724898c36c488039595
+      internalID: -1397890787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 166
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08248f1e8beb2f6409b05add02ec2182
+      internalID: -812346232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 976
+        width: 9
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c51f6b9487ed47a9b976e0d03d0e5
+      internalID: -2082641118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 976
+        width: 31
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02431344129bc3428a037fc272ba016
+      internalID: 1705752139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 976
+        width: 31
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0100bad1187d4aa2b97f2aaacf1d7
+      internalID: -517462352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 976
+        width: 16
+        height: 331
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a529f6f3845f4386cce049fea81bc
+      internalID: 422814893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 937
+        width: 257
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ac803e85d0f84f9dc3909ad5224cf
+      internalID: -1316441241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c3e06669a35964c8235fad6c3a6d20
+      internalID: 1949946541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ccc9fd0ec33bb438184c79653cdddc
+      internalID: -47053523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74e1515ae3c57c4a83d2e5ba83367ad
+      internalID: 905423936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e949c954a67d4c872b3d6f2170a20
+      internalID: -1170231213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f1fbbaed44ede47bb719f42b9d2c71
+      internalID: -438318760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5665ff5928c47142be0b9704386b9c4
+      internalID: 217837405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a639953ce0f124a886b33e92935b20
+      internalID: -820131261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c84746c6960b342a967aaf54ee30c4
+      internalID: 605781551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8963b0effe02aa940b20bd8d7ae2d5c3
+      internalID: -219046728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e4503550d94544830727c0643b96a
+      internalID: -420821500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 887
+        width: 67
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55ff9575784d54db9ab6f3ab78feb4
+      internalID: -1708588624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a8da46af736b4894baebaf5352250
+      internalID: -464236192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb611e1fa495404c9a1b82da0982939
+      internalID: 2077579200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8bb2263c461b429df4213a29b0081
+      internalID: -272914895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f5551a6818e94790716dc7d6dae20
+      internalID: -150509964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a60135ca03784dafea850434d13db
+      internalID: 265834211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c5f6bed9ee5743ade900fe5799638
+      internalID: -1335901069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3232acaf8677f48be92a130a433ae6
+      internalID: 1593786296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655cbcd988db6a43ba9e7bc704fd7d2
+      internalID: -674363780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9dc4dfd1a522b4db0ff4e108eb3674
+      internalID: 363201242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 835
+        width: 34
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19624613e86bc24baf30fa349b97629
+      internalID: 1727278154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPsmall1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 791
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a43417700c36834bb22c7e43ed19474
+      internalID: -81242557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPsmall2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 791
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d1e276ddb7dc4fb22c65284a6dc45
+      internalID: 1141768889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBig1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 791
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a650aead24f54786a6fef4b08f09e
+      internalID: -1435446170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HPBig2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 791
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a174616946ab4d409913336e22d9297
+      internalID: 191052079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 791
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b800edfb7b71dd4dbff7a964c0139cc
+      internalID: -1263196348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 791
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f969a841526d245b08f59c3319b011
+      internalID: -225828133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 791
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435cb34bb7bee884784861682a063bbc
+      internalID: 1793058278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 791
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8d4dc350b8fd48b78c572dcfaea7b
+      internalID: -1535973591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_43
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 791
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b93022ffd3d5a45bd3c227ed5d7a8e
+      internalID: -296520657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_44
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 791
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ecdc9f069022499f7430fddccc6da
+      internalID: 982949391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeUp
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 791
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bff19d44f07584880bb8ef1bbc930d
+      internalID: 2098275004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 794
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab118ba0a11ace4a93319d35f5a215a
+      internalID: 445579357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 792
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f06f3eb159076b419cbaff03eec91ba
+      internalID: -1654327918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 792
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe1dd742dd41284f955ac41aedd7918
+      internalID: -335244620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 557
+        width: 256
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee46bb3061cda594ab73e80d33095b35
+      internalID: 451295809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 557
+        width: 256
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a0da9bc90dd04d81574d44e1e5ee3
+      internalID: 906320311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 256
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1578c013c857844bcb7838a4ead792
+      internalID: -131647926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 258
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a6813e4fa75d24c8971755e3eee822
+      internalID: -2065725696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 268
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f676e517c0df9f47aa15f9bc9e6fb07
+      internalID: -1122020315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 266
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea5b5ede81dce4bb677ae1ac62399c
+      internalID: 185549337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_55
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 267
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743ea563ecaaa94880216037d8ff18b
+      internalID: 1492011498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 220
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204867ce61c6bef4091518b7aa690b8e
+      internalID: 693691446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 218
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edefd80c0ab8a04aa2ccdfe443ac580
+      internalID: -2063200236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_58
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 215
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b9014c4b5505499049bfefa2812c5
+      internalID: 33331637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 169
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b570135d8805a4081e87c6c43a4fc5
+      internalID: 1561918038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_60
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 171
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e851dedbff02546ae4875d8cb534a5
+      internalID: 475371463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_61
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 171
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c209e98bd427c14b802d3ba6636dd29
+      internalID: -1590356702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8963e68b6b9d248b183b7487a24032
+      internalID: -830006204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf68a9a31afe84290e46e636a2eecb
+      internalID: 1099012304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mm2miscsheet_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5
+        width: 222
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5945b3f0f4276645972d4ab39017b3a
+      internalID: 1213843507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HPBig1: -1435446170
+      HPBig2: 191052079
+      HPsmall1: -81242557
+      HPsmall2: 1141768889
+      LifeUp: 2098275004
+      mm2miscsheet_0: 1977004721
+      mm2miscsheet_1: -651400707
+      mm2miscsheet_10: 1705752139
+      mm2miscsheet_11: -517462352
+      mm2miscsheet_12: 422814893
+      mm2miscsheet_13: -1316441241
+      mm2miscsheet_14: 1949946541
+      mm2miscsheet_15: -47053523
+      mm2miscsheet_16: 905423936
+      mm2miscsheet_17: -1170231213
+      mm2miscsheet_18: -438318760
+      mm2miscsheet_19: 217837405
+      mm2miscsheet_2: -331332434
+      mm2miscsheet_20: -820131261
+      mm2miscsheet_21: 605781551
+      mm2miscsheet_22: -219046728
+      mm2miscsheet_23: -420821500
+      mm2miscsheet_24: -1708588624
+      mm2miscsheet_25: -464236192
+      mm2miscsheet_26: 2077579200
+      mm2miscsheet_27: -272914895
+      mm2miscsheet_28: -150509964
+      mm2miscsheet_29: 265834211
+      mm2miscsheet_3: -1287674324
+      mm2miscsheet_30: -1335901069
+      mm2miscsheet_31: 1593786296
+      mm2miscsheet_32: -674363780
+      mm2miscsheet_33: 363201242
+      mm2miscsheet_34: 1727278154
+      mm2miscsheet_39: -1263196348
+      mm2miscsheet_4: 121511134
+      mm2miscsheet_40: -225828133
+      mm2miscsheet_41: 1793058278
+      mm2miscsheet_42: -1535973591
+      mm2miscsheet_43: -296520657
+      mm2miscsheet_44: 982949391
+      mm2miscsheet_46: 445579357
+      mm2miscsheet_47: -1654327918
+      mm2miscsheet_48: -335244620
+      mm2miscsheet_49: 451295809
+      mm2miscsheet_5: 1232006738
+      mm2miscsheet_50: 906320311
+      mm2miscsheet_51: -131647926
+      mm2miscsheet_52: -2065725696
+      mm2miscsheet_53: -1122020315
+      mm2miscsheet_54: 185549337
+      mm2miscsheet_55: 1492011498
+      mm2miscsheet_56: 693691446
+      mm2miscsheet_57: -2063200236
+      mm2miscsheet_58: 33331637
+      mm2miscsheet_59: 1561918038
+      mm2miscsheet_6: -1539076609
+      mm2miscsheet_60: 475371463
+      mm2miscsheet_61: -1590356702
+      mm2miscsheet_62: -830006204
+      mm2miscsheet_63: 1099012304
+      mm2miscsheet_64: 1213843507
+      mm2miscsheet_7: -1397890787
+      mm2miscsheet_8: -812346232
+      mm2miscsheet_9: -2082641118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
