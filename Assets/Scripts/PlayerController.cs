@@ -73,7 +73,12 @@ public class PlayerController : MonoBehaviour
 
         anim.SetBool("isGrounded", isGrounded);
 
-        if (move != 0) sr.flipX = (move < 0);
+        if (move != 0)
+        {
+            sr.flipX = (move < 0);
+            Debug.Log("Player is facing " + (sr.flipX ? "left" : "right"));
+
+        }
 
 
 
@@ -86,6 +91,7 @@ public class PlayerController : MonoBehaviour
         {
             Die();
         }
+        
     }
 
     public void Heal(int amount)
