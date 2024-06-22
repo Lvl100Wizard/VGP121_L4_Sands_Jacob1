@@ -12,7 +12,7 @@ public class TitleMenu : MonoBehaviour
     }
     public void StartGame()
     {
-        SceneManager.LoadScene("LevelScene");
+        GameManager.instance.StartGame();
         AudioManager.instance.Stop("TitleMusic");
         AudioManager.instance.Play("GameMusic");
 
